@@ -27,4 +27,13 @@ I'm a novice Data Analyst.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaAgapitova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- [![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenaAgapitova)](https://github.com/anuraghazra/github-readme-stats)
+
+![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenaAgapitova&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenaAgapitova&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenaAgapitova&show_icons=true&theme=radical) 
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ElenaAgapitova)](https://github.com/anuraghazra/github-readme-stats) -->
 
