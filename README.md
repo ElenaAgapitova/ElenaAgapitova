@@ -27,7 +27,10 @@ I'm a novice Data Analyst.
 <a href="https://t.me/Raccoon1001" ><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" /></a> 
 </p>
 
-### My GitHub Stats
+### 📊 My GitHub Stats
 
-<a href="http://www.github.com/ElenaAgapitova"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ElenaAgapitova&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/ElenaAgapitova"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ElenaAgapitova&stroke=1c1917&background=#F5FFFA&ring=0891b2&fire=0891b2&currStreakNum=1c1917&currStreakLabel=0891b2&sideNums=1c1917&sideLabels=1c1917&dates=1c1917&hide_border=true" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaAgapitova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
