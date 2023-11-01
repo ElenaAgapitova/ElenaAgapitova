@@ -4,7 +4,7 @@ Hi there👋
 I'm a novice Data Analyst.
 --------------------------
 
-- 🌱 I’m currently learning Python for data analysis, R, mathematical statistics, machine learning and AB testing.
+- 🌱 I’m currently learning Python for data analysis, mathematical statistics, machine learning and AB testing.
 - 📚 I’m currently reading Data Science from Scratch by Joel Grus and PostgreSQL. Fundamentals of the SQL language by E. Morgunov.
 - 🌍  I'm based in Saint Petersburg, Russia
 - 📫 How to reach me: <a href="mailto:agapitovae87@gmail.com">email</a>, <a href="https://t.me/Raccoon1001">telegram</a>
